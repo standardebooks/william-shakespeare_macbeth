@@ -43,9 +43,10 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Macbeth and his companian encounter three witches that tell them what their futures hold.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;King Duncan’s closest generals, Macbeth and Banquo, have just defeated two invading armies along with the Irish rebel Macdonwald. Out across the misty moor, they encounter three witches who tell Macbeth a powerful prophecy, “All hail, Macbeth! hail to thee, thane of Glamis! All hail, Macbeth, hail to thee, thane of Cawdor! All hail, Macbeth, thou shalt be king hereafter!” They not only claim that Macbeth will eventually become King of Scotland, but they also prophesize that Banquo will father a line of Scottish kings, although Banquo will never be king himself.&lt;/p&gt;
+			&lt;p&gt;This shocking tragedy⁠—a violent caution to those seeking power for its own sake⁠—is, to this day, one of Shakespeare’s most popular and influential masterpieces.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
