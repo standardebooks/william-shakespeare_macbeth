@@ -43,6 +43,8 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An ambitious general murders the King of Scotland and takes the throne for himself—and then he must deal with the consequences.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;King Duncan’s closest generals, Macbeth and Banquo, have just defeated two invading armies and the Irish rebel Macdonwald. Out across the misty moor, they encounter three witches who reveal to Macbeth a powerful prophecy: “All hail, Macbeth! hail to thee, thane of Glamis! All hail, Macbeth, hail to thee, thane of Cawdor! All hail, Macbeth, thou shalt be king hereafter!” They not only claim that Macbeth will eventually become King of Scotland, but that Banquo will father a line of Scottish kings—though ominously, Banquo will never be king himself.&lt;/p&gt;
