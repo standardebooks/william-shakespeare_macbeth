@@ -31,9 +31,9 @@
 		<dc:title id="title">Macbeth</dc:title>
 		<meta property="file-as" refines="#title">Macbeth</meta>
 		<dc:subject id="subject-1">Tragedies</dc:subject>
-		<dc:subject id="subject-2">Regicides -- Drama</dc:subject>
-		<dc:subject id="subject-3">Macbeth, King of Scotland, active 11th century -- Drama</dc:subject>
-		<dc:subject id="subject-4">Scotland -- Kings and rulers -- Drama</dc:subject>
+		<dc:subject id="subject-2">Regicides--Drama</dc:subject>
+		<dc:subject id="subject-3">Macbeth, King of Scotland, active 11th century--Drama</dc:subject>
+		<dc:subject id="subject-4">Scotland--Kings and rulers--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2001009136</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
